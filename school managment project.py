@@ -1,8 +1,3 @@
-# Created by Ajay
-# XII Sci. A
-# Roll no 04
-
-
 import mysql.connector as a
 con = a.connect(host="localhost", user="root", passwd="1234", database="school_managment_system")
 
