@@ -137,7 +137,6 @@ def dclass():
      
 
 
-
 def  dteacher():
      sql = "select * from teacher"
      c = con.cursor()
@@ -196,6 +195,3 @@ def pswd():
           print("Wrong Password ")
           pswd()
 pswd()
-          
-
-     
